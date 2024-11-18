@@ -17,11 +17,6 @@ Soy un desarrollador web con **2 años de experiencia**, comprometido y apasiona
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) **React**
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next-dot-js&logoColor=white) **Next.js**
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) **Angular**
-
-### ORMs y Manejadores de Datos 📊
-- ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white) **Prisma**
-- ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white) **Sequelize**
-
 ---
 
 🌱 **Tecnologías favoritas:** Disfruto especialmente trabajando con **React** y **Next.js** en el frontend, y en la optimización de datos con **Prisma** y **Sequelize**.
