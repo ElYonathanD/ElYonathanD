@@ -1,7 +1,7 @@
 # ¡Hola, soy Yonathan David Peñuela! 🙌
 
 ## Acerca de mí 💡
-Soy un desarrollador web con **2 años de experiencia**, comprometido y apasionado con la excelencia en mi trabajo. Me caracterizo por ser una persona honesta, responsable y orientada a resultados. Me gusta **trabajar en equipo** y colaborar con otros para alcanzar soluciones efectivas y eficientes.
+Soy un desarrollador web con **más de 2 años de experiencia**, comprometido y apasionado con la excelencia en mi trabajo. Me caracterizo por ser una persona honesta, responsable y orientada a resultados. Me gusta **trabajar en equipo** y colaborar con otros para alcanzar soluciones efectivas y eficientes.
 
 ---
 
@@ -19,9 +19,11 @@ Soy un desarrollador web con **2 años de experiencia**, comprometido y apasiona
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) **Angular**
 ---
 
-🌱 **Tecnologías favoritas:** Disfruto especialmente trabajando con **React** y **Next.js** en el frontend, y en la optimización de datos con **Prisma** y **Sequelize**.
+🌱 **Tecnologías favoritas:** Disfruto especialmente trabajando con **React** y **Next.js** en el frontend.
 
 🔍 **En qué estoy enfocado actualmente:** Mejorar la experiencia de usuario y optimizar la arquitectura de código en proyectos de frontend avanzados.
+
+📚 **Qué quiero lograr:** Seguir aprendiendo y perfeccionando mis conocimientos en desarrollo web, explorar nuevas tecnologías y herramientas, y enfrentar desafíos que me permitan crecer tanto personal como profesionalmente.
 
 📫 **¿Quieres colaborar o necesitas ayuda en algún proyecto?** ¡Estoy abierto a nuevas ideas y propuestas! 
 
